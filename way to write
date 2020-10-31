@@ -1,0 +1,11 @@
+1)create a folder called actions- implement various actions in it like
+	export default function age(){
+		return{
+			type:'DAA'
+			payload : {sdfsd:sdfsdf,dsfsd:sfsd}
+		}
+	}
+2) write a reducer functions accordingly
+
+3) write table form accordingly
+
